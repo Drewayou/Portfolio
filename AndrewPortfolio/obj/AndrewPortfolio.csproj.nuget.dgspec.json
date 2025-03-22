@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\andre\\Documents\\Coding_stuff\\Blazor Portfolio Website\\AndrewPortfolio\\AndrewPortfolio.csproj": {}
+    "C:\\Users\\andre\\Documents\\Coding_stuff\\Blazor Portfolio Website\\AndrewPortfolio\\AndrewPortfolio.csproj": {}
   },
   "projects": {
-    "c:\\Users\\andre\\Documents\\Coding_stuff\\Blazor Portfolio Website\\AndrewPortfolio\\AndrewPortfolio.csproj": {
+    "C:\\Users\\andre\\Documents\\Coding_stuff\\Blazor Portfolio Website\\AndrewPortfolio\\AndrewPortfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\andre\\Documents\\Coding_stuff\\Blazor Portfolio Website\\AndrewPortfolio\\AndrewPortfolio.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\Documents\\Coding_stuff\\Blazor Portfolio Website\\AndrewPortfolio\\AndrewPortfolio.csproj",
         "projectName": "AndrewPortfolio",
-        "projectPath": "c:\\Users\\andre\\Documents\\Coding_stuff\\Blazor Portfolio Website\\AndrewPortfolio\\AndrewPortfolio.csproj",
+        "projectPath": "C:\\Users\\andre\\Documents\\Coding_stuff\\Blazor Portfolio Website\\AndrewPortfolio\\AndrewPortfolio.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\andre\\Documents\\Coding_stuff\\Blazor Portfolio Website\\AndrewPortfolio\\obj\\",
+        "outputPath": "C:\\Users\\andre\\Documents\\Coding_stuff\\Blazor Portfolio Website\\AndrewPortfolio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
