@@ -62,8 +62,6 @@ c:\Users\andre\Documents\Coding_stuff\Blazor Portfolio Website\AndrewPortfolio\o
 c:\Users\andre\Documents\Coding_stuff\Blazor Portfolio Website\AndrewPortfolio\obj\Debug\net9.0\compressed\1ds3uemw5l-h1s4sie4z3.gz
 c:\Users\andre\Documents\Coding_stuff\Blazor Portfolio Website\AndrewPortfolio\obj\Debug\net9.0\compressed\iq9d9y56lq-63fj8s7r0e.gz
 c:\Users\andre\Documents\Coding_stuff\Blazor Portfolio Website\AndrewPortfolio\obj\Debug\net9.0\compressed\bic2l0aqet-0j3bgjxly4.gz
-c:\Users\andre\Documents\Coding_stuff\Blazor Portfolio Website\AndrewPortfolio\obj\Debug\net9.0\compressed\eoytlcpyar-7jzc3ybydb.gz
-c:\Users\andre\Documents\Coding_stuff\Blazor Portfolio Website\AndrewPortfolio\obj\Debug\net9.0\compressed\v5rg10y8se-7jzc3ybydb.gz
 c:\Users\andre\Documents\Coding_stuff\Blazor Portfolio Website\AndrewPortfolio\obj\Debug\net9.0\staticwebassets.build.json
 c:\Users\andre\Documents\Coding_stuff\Blazor Portfolio Website\AndrewPortfolio\obj\Debug\net9.0\staticwebassets.development.json
 c:\Users\andre\Documents\Coding_stuff\Blazor Portfolio Website\AndrewPortfolio\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -78,3 +76,5 @@ c:\Users\andre\Documents\Coding_stuff\Blazor Portfolio Website\AndrewPortfolio\o
 c:\Users\andre\Documents\Coding_stuff\Blazor Portfolio Website\AndrewPortfolio\obj\Debug\net9.0\AndrewPortfolio.pdb
 c:\Users\andre\Documents\Coding_stuff\Blazor Portfolio Website\AndrewPortfolio\obj\Debug\net9.0\AndrewPortfolio.genruntimeconfig.cache
 c:\Users\andre\Documents\Coding_stuff\Blazor Portfolio Website\AndrewPortfolio\obj\Debug\net9.0\ref\AndrewPortfolio.dll
+C:\Users\andre\Documents\Coding_stuff\Blazor Portfolio Website\AndrewPortfolio\obj\Debug\net9.0\compressed\eoytlcpyar-lc9dgme3pu.gz
+C:\Users\andre\Documents\Coding_stuff\Blazor Portfolio Website\AndrewPortfolio\obj\Debug\net9.0\compressed\v5rg10y8se-lc9dgme3pu.gz
